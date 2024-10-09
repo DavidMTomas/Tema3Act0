@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tema3Act0</string>
+    <string-array name="hora_apertura">
+        <item>8:00</item>
+        <item>16:00</item>
+        <item>20:00</item>
+    </string-array>
+    <string-array name="hora_cierre">
+        <item>12:00</item>
+        <item>18:00</item>
+        <item>23:00</item>
+    </string-array>
+
+</resources>
